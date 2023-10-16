@@ -1,14 +1,14 @@
 <idea-plugin require-restart="true">
-  <id>com.jetbrains.rider.plugins.guidgenerator</id>
+  <id>me.dench327.rider.plugins.guidgenerator</id>
   <name>GuidGenerator</name>
-  <version>_PLACEHOLDER_</version>
-  <vendor url="https://project-url">Author</vendor>
+  <version>1.0.0</version>
+  <vendor url="https://github.com/DenisSemko/GuidGenerator">Denys Semko</vendor>
   <idea-version since-build="_PLACEHOLDER_" until-build="_PLACEHOLDER_" />
   <depends>com.intellij.modules.rider</depends>
 
   <description>
 <![CDATA[
-<p>It's a plugin to generate guid</p>
+  <p>It's a plugin to generate immediately Guid inside .NET project using Rider</p>
 ]]>
   </description>
 
