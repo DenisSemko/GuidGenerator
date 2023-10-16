@@ -1,0 +1,10 @@
+global using JetBrains.Application.Progress;
+global using JetBrains.ProjectModel;
+global using JetBrains.ReSharper.Feature.Services.CSharp.ContextActions;
+global using JetBrains.ReSharper.Feature.Services.ContextActions;
+global using JetBrains.ReSharper.Psi.CSharp.Tree;
+global using JetBrains.ReSharper.Resources.Shell;
+global using JetBrains.TextControl;
+global using JetBrains.Util;
+global using ReSharperPlugin.GuidGenerator.Helpers;
+global using System;
