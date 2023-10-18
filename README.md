@@ -64,7 +64,7 @@ _v1.0 has been released_
 [![Rider](https://img.shields.io/jetbrains/plugin/v/RIDER_PLUGIN_ID.svg?label=Rider&colorB=0A7BBB&style=for-the-badge&logo=rider)](https://plugins.jetbrains.com/plugin/me.dench327.plugins.guidgenerator)
 
 ## Contact
-Created by [@dench327](https://linkedin.com/in/https://www.linkedin.com/in/denis-semko-551b91191) - feel free to contact me!
+Created by [@dench327](https://www.linkedin.com/in/denis-semko-551b91191) - feel free to contact me!
 
 © 2023
 
