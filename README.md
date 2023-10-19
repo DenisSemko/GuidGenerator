@@ -21,7 +21,7 @@ Guid Generator is a powerful and versatile Rider plugin crafted in C# that takes
 
 ## Technologies Used
 - C# 7.0
-- Rider IDE (compatible with Rider version 2023.1 — 2023.1.4)
+- Rider IDE (compatible with Rider version 2023.2.2)
 
 ## Features
 1. Generate a New Guid Instance;
