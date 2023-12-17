@@ -3,12 +3,12 @@
   <PropertyGroup>
     <!-- See https://www.nuget.org/packages/JetBrains.ReSharper.SDK -->
     <!-- Keep in sync with ProductVersion in gradle.properties -->
-    <SdkVersion>2023.2.2</SdkVersion>
+    <SdkVersion>2023.3.1</SdkVersion>
 
     <Title>Guid Generator</Title>
     <Description>It's a plugin to generate guid in a comfortable way</Description>
 
-    <Authors>Author</Authors>
+    <Authors>Denys Semko</Authors>
     <Copyright>Copyright $([System.DateTime]::Now.Year) Maintainers of GuidGenerator</Copyright>
     <PackageTags>resharper plugin</PackageTags>
 
